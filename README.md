@@ -5,9 +5,9 @@
 </a>
 <br>
 
-<!-->- 🔭 I’m currently working on Front-end;
-- 🌱 I’m currently learning HTML5,CSS5,JavaScript;
-<!-->
+<!-->- 🔭 I’m currently working on Front-end; <!-->
+<!--> 🌱 I’m currently learning HTML5,CSS5,JavaScript; <!-->
+
 <br>
 
 ### Languages and Tools: 
