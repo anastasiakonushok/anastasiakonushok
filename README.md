@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/anastasia-konushok-112abb1b4/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br>
 
 <!-->- 🔭 I’m currently working on Front-end;
 - 🌱 I’m currently learning HTML5,CSS5,JavaScript;
