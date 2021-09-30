@@ -1,4 +1,4 @@
-## Hi,I'm Anastasia and beginner Front-end developer  👋
+## Hi,I'm Anastasia and junior Front-end developer  👋
 <br>
 <a href="https://www.linkedin.com/in/anastasia-konushok-112abb1b4/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
